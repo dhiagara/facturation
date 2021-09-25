@@ -1,0 +1,50 @@
+.Card{
+  margin-top: 20px  !important;
+  
+  height:140px ;
+  ;
+  
+}
+.pink {
+  background-color: red  !important;
+  height: 56px   ;
+  width:56 ;
+  margin-left: 20px ;
+  
+}
+.Grid1{
+  margin-left: 50px !important ;
+  
+}
+.green {
+  background-color: seagreen !important ;
+                height: 56;
+             width : 56;
+  
+}
+.orange {
+  background-color: orange !important ;
+}
+.indigo {
+  background-color: rgb(125, 110, 136)!important ;
+}
+.Box1 {
+  
+  height: 600px !important ;
+  position: 'relative'!important;
+}
+.Box2 {
+  display: 'flex' !important ;
+        justify-content: 'flex-end'!important ;
+          p: 2
+}
+.Box3 {
+  height: 300px !important ;
+  position: 'relative'!important ;
+}
+.Box4 {
+  
+  display: 'flex';
+  justify-content : 'center';
+  pt: 2
+}

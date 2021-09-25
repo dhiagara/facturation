@@ -1,0 +1,10 @@
+POST  hTTP//localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "Name" : "joseph",
+     "Company" : "v",
+     "Email" :"", 
+     "password":""
+    
+}
